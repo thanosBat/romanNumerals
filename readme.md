@@ -1,7 +1,7 @@
 Roman Numerals
 ===============
 
-This Maven project consists of a class that implements
+This maven project consists of a class that implements
 the following interface:
 
 public interface RomanNumeralGenerator {
