@@ -5,10 +5,6 @@ target/
 .project
 .settings/
 
-#netbeans ignore personal stuff 
-nbproject/private/
-
-
 ## generic files to ignore
 *~
 *.lock
