@@ -54,6 +54,7 @@ public class RomanTest {
 		assertEquals("Error, generate(1982) should return 'MCMLXXXII'", "MCMLXXXII", r.generate(1982) );
 		assertEquals("Error, generate(2257) should return 'MMCCLVII'", "MMCCLVII", r.generate(2257) );
 		assertEquals("Error, generate(3999) should return 'MMMCMXCIX'", "MMMCMXCIX", r.generate(3999) );
+		assertEquals("Error, generate(3999) should return 'VI'", "VI", r.generate(6) );
 		
 	}
 	
